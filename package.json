@@ -1,0 +1,18 @@
+{
+  "name": "@dotenvx/dotenvx-pro-windows-amd64",
+  "version": "0.1.0",
+  "description": "dotenvx-pro-windows-amd64 executable",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotenvx/dotenvx-pro-windows-amd64.git"
+  },
+  "files": [
+    "dotenvx-pro.exe",
+    "README.md"
+  ],
+  "author": "@motdotla",
+  "license": "BSD-3-Clause",
+  "publishConfig": {
+    "access": "public"
+  }
+}
